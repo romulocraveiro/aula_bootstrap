@@ -30,7 +30,7 @@ _I believe I have been able to use acceptable colors by decreasing the impact of
 ## Links 
 
 * [Digital Innovation One](https://digitalinnovation.one/);
-* [Link deste projeto](https://romulocraveiro.github.io/recriando-netflix/);
+* [Link deste projeto](https://romulocraveiro.github.io/aula_bootstrap/);
 * [HTML Color Chart](https://html-color-codes.info/)
 
 ## Autor / Author
